@@ -1,0 +1,2 @@
+in questa cartella mettiamo piccoli file che vogliamo condividere, mentre 
+tutti i file pesanti mettiamoli in ADM-HW4/data tanto è nel gitignore
